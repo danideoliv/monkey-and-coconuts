@@ -14,5 +14,6 @@ Questão do problema: dado que foram colhidos inicialmente _n_ cocos, qual o mai
 
 Faça um programa que leia do teclado um número inteiro _n_, representando uma quantidade de cocos, e imprima a resposta à questão do problema, no seguinte formato:
 `N cocos, P pessoas e 1 macaco`
+
 Caso não haja solução para o número lido, seu programa deve imprimir a mensagem:
 `N cocos, sem solução`
